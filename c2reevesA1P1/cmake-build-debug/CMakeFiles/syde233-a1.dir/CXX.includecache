@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/reeve/CLionProjects/c2reevesA1P1/doubly-linked-list.h
+
+/cygdrive/c/Users/reeve/CLionProjects/c2reevesA1P1/sequential-list.h
+
+/cygdrive/c/Users/reeve/CLionProjects/c2reevesA1P1/test.cpp
+iostream
+-
+string
+-
+test.h
+/cygdrive/c/Users/reeve/CLionProjects/c2reevesA1P1/test.h
+
+/cygdrive/c/Users/reeve/CLionProjects/c2reevesA1P1/test.h
+doubly-linked-list.h
+/cygdrive/c/Users/reeve/CLionProjects/c2reevesA1P1/doubly-linked-list.h
+sequential-list.h
+/cygdrive/c/Users/reeve/CLionProjects/c2reevesA1P1/sequential-list.h
+
